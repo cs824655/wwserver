@@ -1,0 +1,19 @@
+{
+  "name": "wwserver",
+  "version": "1.0.0",
+  "description": "The server for werewolf board game.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cs824655/wwserver.git"
+  },
+  "author": "Chen Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cs824655/wwserver/issues"
+  },
+  "homepage": "https://github.com/cs824655/wwserver#readme"
+}
